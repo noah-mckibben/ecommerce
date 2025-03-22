@@ -1,0 +1,12 @@
+.cart {
+  cursor: pointer;
+
+
+}
+
+.cart:hover {
+  @apply transition duration-500 hover:scale-125;
+}
+
+
+

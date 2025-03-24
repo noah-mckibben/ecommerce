@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
-import { PrimaryButtonComponent} from '../primary-button/primary-button.component';
+import { CartButtonComponent} from '../cart-button/cart-button.component';
 
 @Component({
   selector: 'app-header',
   standalone: true,
   imports: [
-    PrimaryButtonComponent
+    CartButtonComponent
   ],
   templateUrl: './header.component.html',
   styleUrl: './header.component.scss'

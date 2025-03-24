@@ -1,7 +1,7 @@
 @use "tailwindcss";
 
 #title {
-  @apply bg-slate-100 px-4 py-2 shadow-md flex justify-between;
+  @apply bg-slate-100 px-4 py-0 shadow-md flex justify-between;
   align-items: center;
 }
 
